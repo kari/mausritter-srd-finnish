@@ -5,7 +5,7 @@ SRD päivitetty viimeksi 19.6.2025
 Käännös päivitetty viimeksi 19.7.2025
 
 Copyright 2025 Isaac Williams
-Käännöksen on tehnyt Kari Silvennoinen, 2025
+Käännös Kari Silvennoinen, 2025
 
 **Mausritter sääntökokoelman (System Reference Document, SRD)** teksti on lisensoitu [Creative Commons Nimeä 4.0 Kansainvälinen (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) -lisenssillä.
 
@@ -334,7 +334,7 @@ Hinta: 5p
 
 Vähentää vihollisen hyökkäysten hiirellesi aiheuttamaa vahinkoa.
 
-### Kevyt panssari
+### Kevyt haarniska
 
 **Estää 1 vahingon**\
 Käytetty: Heikommassa käpälässä ja yhdessä vartalopaikassa
