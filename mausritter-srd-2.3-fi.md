@@ -839,7 +839,7 @@ Joitakin vaihtoehtoja seurauksille ovat:
 
 ## Onnenheitot
 
-Onniheittoja käytetään tapahtumiin, joiden ennalta arvaamaton lopputulos on STR-, DEX- tai WIL-pelastusheittojen ulkopuolella. Määritä lopputuloksen toteutumisen todennäköisyys "X kuudesta" (alhainen on epätodennäköistä, korkea todennäköistä) ja heitä sitten d6. Jos nopan tulos on yhtä suuri tai pienempi kuin valittu todennäköisyys, lopputulos tapahtuu.
+Onnenheittoja käytetään tapahtumiin, joiden ennalta arvaamaton lopputulos on STR-, DEX- tai WIL-pelastusheittojen ulkopuolella. Määritä lopputuloksen toteutumisen todennäköisyys "X kuudesta" (alhainen on epätodennäköistä, korkea todennäköistä) ja heitä sitten d6. Jos nopan tulos on yhtä suuri tai pienempi kuin valittu todennäköisyys, lopputulos tapahtuu.
 
 ## Päätökset
 
@@ -1874,7 +1874,7 @@ Esteet ovat jotain mitä pelaajien pitää ylittää jatkaakseen matkaansa. Käy
 
 ### Ansat
 
-Ansojen pitäisi olla ilmeisiä ja tappavia. Hyvässä ansassa on selkeä vaara ja useita, ei helposti havaittavia ratkaisuja. Mieti, mihin tarkoitukseen ansa on rakennettu ja miten paikan muut oliot selviytyvät siitä. Jos pelaajat käyttävät riskialtista tapaa ohittaa ansa, pyydä Pelastus- tai Onniheitto.
+Ansojen pitäisi olla ilmeisiä ja tappavia. Hyvässä ansassa on selkeä vaara ja useita, ei helposti havaittavia ratkaisuja. Mieti, mihin tarkoitukseen ansa on rakennettu ja miten paikan muut oliot selviytyvät siitä. Jos pelaajat käyttävät riskialtista tapaa ohittaa ansa, pyydä Pelastus- tai Onnenheitto.
 
 | d8 | Ansa                                                                                                                          |
 | -- | ----------------------------------------------------------------------------------------------------------------------------- |
