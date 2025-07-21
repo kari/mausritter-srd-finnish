@@ -954,7 +954,7 @@ Hyökkäykset: d6 raapaisu, d8 puraisu
 :::statblock
 8hp, STR 10, DEX 12, WIL 8, Panssari 1\
 Hyökkäykset: d6 myrkkypuraisu (vahingoittaa DEX-arvoa STR:n sijaan)\
-Kriittinen vahinko: Myrkky alkaa vaikuttaa, d12 vahinkoa STR:ään.\
+Kriittinen vahinko: Myrkky alkaa vaikuttaa, d12 vahinkoa STR:ään.
 :::
 
 **Haluaa** vaellella ja ahmia
@@ -973,7 +973,7 @@ Kriittinen vahinko: Myrkky alkaa vaikuttaa, d12 vahinkoa STR:ään.\
 :::statblock
 12hp, STR 12, DEX 15, WIL 15, Panssari 1\
 Hyökkäykset: d8 nokkaisu\
-Lentää 3x normaalia nopeammin, osaa kaksi laulua\
+Lentää 3x normaalia nopeammin, osaa kaksi laulua
 :::
 
 **Haluaa** suojella salaisia pyhiä paikkoja niiltä, jotka haluaisivat vahingoittaa niitä
@@ -992,7 +992,7 @@ Lentää 3x normaalia nopeammin, osaa kaksi laulua\
 :::statblock
 6hp, STR 10, DEX 15, WIL 15\
 Hyökkäykset: d8 hopeinen säilä\
-Osaa yhden loitsun\
+Osaa yhden loitsun
 :::
 
 **Haluaa** edistää Keijukaiskuningattaren outoa suunnitelmaa
@@ -1012,7 +1012,7 @@ Osaa yhden loitsun\
 6hp, STR 12, DEX 15, WIL 8, Panssari 1\
 Hyökkäykset: d10 keihäs tai d6 kieli\
 Kriittinen vahinko: Hyppää ulottumattomiin
-Menee aina ensimmäisenä, ellei yllätetä; hyppelehtii 2x normaalia nopeammin\
+Menee aina ensimmäisenä, ellei yllätetä; hyppelehtii 2x normaalia nopeammin
 :::
 
 **Haluaa** suorittaa urhoollisesti tehtävänsä loppuun
@@ -1032,7 +1032,7 @@ Menee aina ensimmäisenä, ellei yllätetä; hyppelehtii 2x normaalia nopeammin\
 9hp, STR 5, DEX 10, WIL 10\
 Hyökkäykset: aavemainen voima, d8 hyytävä kosketus (vahingoittaa WIL:iä)\
 Kriittinen vahinko: Riivaa olennon\
-Vahingoittuu vain hopea- tai taika-aseista.\
+Vahingoittuu vain hopea- tai taika-aseista.
 :::
 
 **Haluaa** vapautua kivusta, joka sitoo hänet kuolevaisten maailmaan
@@ -1050,7 +1050,7 @@ Vahingoittuu vain hopea- tai taika-aseista.\
 
 :::statblock
 3hp, STR 9, DEX 9, WIL 9\
-Hyökkäykset: d6 miekka tai d6 jousi\
+Hyökkäykset: d6 miekka tai d6 jousi
 :::
 
 **Haluaa** tuntea olonsa turvalliseksi
@@ -1069,7 +1069,7 @@ Hyökkäykset: d6 miekka tai d6 jousi\
 :::statblock
 15hp, STR 15, DEX 15, WIL 15, Panssari 1\
 Hyökkäykset: d10 puraisu\
-Lentää 3x normaalia nopeammin. Osaa kaksi loitsua\
+Lentää 3x normaalia nopeammin. Osaa kaksi loitsua
 :::
 
 **Haluaa** kerätä harvinaisia loitsuja ja tietämystä
@@ -1087,7 +1087,7 @@ Lentää 3x normaalia nopeammin. Osaa kaksi loitsua\
 
 :::statblock
 3hp, STR 12, DEX 8, WIL 8\
-Hyökkäykset: d6 lihakirves\
+Hyökkäykset: d6 lihakirves
 :::
 
 **Haluaa** helppoa rahaa, varastaa heikommilta
@@ -1106,7 +1106,7 @@ Hyökkäykset: d6 lihakirves\
 :::statblock
 12hp, STR 12, DEX 10, WIL 10, Panssari 2\
 Hyökkäykset: d8 puraisu\
-Kriittinen vahinko: Nielaisee kokonaan, d4 STR-vahinkoa Kierroksittain, kunnes pelastut tai pakenet\
+Kriittinen vahinko: Nielaisee kokonaan, d4 STR-vahinkoa Kierroksittain, kunnes pelastut tai pakenet
 :::
 
 **Haluaa** nukkua ilman häirintää
@@ -1125,7 +1125,7 @@ Kriittinen vahinko: Nielaisee kokonaan, d4 STR-vahinkoa Kierroksittain, kunnes p
 :::statblock
 6hp, STR 8, DEX 15, WIL 10, Panssari 1\
 Hyökkäykset: d6 myrkkypuraisu (vahingoittaa DEX-arvoa STR:n sijaan)\
-Kriittinen vahinko: Kantaa pois verkossa\
+Kriittinen vahinko: Kantaa pois verkossa
 :::
 
 **Haluaa** ruokkia poikasiaan

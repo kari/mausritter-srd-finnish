@@ -1,4 +1,6 @@
-**/*.pdf
+*.pdf
 fonts/*
 mausritter-srd-2.3.md
 todo.md
+node_modules/
+_site/**/*
