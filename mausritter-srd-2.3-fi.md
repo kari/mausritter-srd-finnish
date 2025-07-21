@@ -1,10 +1,10 @@
 # Mausritter
 
-Mausritter Sääntökokoelma (SRD) Versio 2.3
-SRD päivitetty viimeksi 19.6.2025
+Mausritter Sääntökokoelma (SRD) Versio 2.3\
+SRD päivitetty viimeksi 19.6.2025\
 Käännös päivitetty viimeksi 19.7.2025
 
-Copyright 2025 Isaac Williams
+Copyright 2025 Isaac Williams\
 Käännös Kari Silvennoinen, 2025
 
 **Mausritter sääntökokoelman (System Reference Document, SRD)** teksti on lisensoitu [Creative Commons Nimeä 4.0 Kansainvälinen (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) -lisenssillä.
@@ -59,7 +59,7 @@ Hiirelläsi on kolme kykyarvoa. Nämä mittaavat sen perusvahvuuksia ja -heikkou
 
 - **STR:** fyysinen voima ja kestävyys.
 - **DEX:** nopeus ja ketteryys.
-- **WIL:** tahdonvoima ja karisma.
+- **WIL:** tahdonvoima ja luonteen voimakkuus.
 
 Heitä **3d6** järjestyksessä jokaista kykyä varten.
 
@@ -2210,7 +2210,7 @@ Sytytä inspiraatio seikkailuun. Heitä kerran ja lue koko rivi tai heitä eriks
 
 Kun käytät Mausritterin Sääntökokoelman tekstiä, sinun on sisällytettävä työhösi seuraava maininta:
 
-> Tämä teos perustuu [Mausritteriin](https://mausritter.com), Losing Gamesin ja Isaac Williamsin teokseen, ja se on lisensoitu käytettäväksi [Creative Commons Nimeä 4.0 Kansainvälinen (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) -lisenssillä.
+> This work is based on [Mausritter](https://mausritter.com/), a product of Losing Games and Isaac Williams, and is licensed for use under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) licence.
 
 Maininta on sisällytettävä näkyvään paikkaan, kuten teoksen tekijälistaan tai johdantoon.
 
@@ -2230,7 +2230,7 @@ Et saa ilmoittaa tai antaa ymmärtää, että työsi on virallinen Mausritter-tu
 
 ## Kolmannen osapuolen lisenssi
 
-Seikkailujen, lisäosien ja muun sisällön luominen Mausritteriin on sallittua [Mausritterin kolmannen osapuolen lisenssin (Mausritter Third Party License)](/third-party-licence) nojalla. Tämän lisenssin avulla voit luoda ja myydä omaa Mausritter-sisältöäsi, kunhan noudatat tällä kyseisellä sivulla esitettyjä ehtoja.
+Seikkailujen, lisäosien ja muun sisällön luominen Mausritteriin on sallittua [Mausritterin kolmannen osapuolen lisenssin (Mausritter Third Party License)](https://mausritter.com/third-party-licence/) nojalla. Tämän lisenssin avulla voit luoda ja myydä omaa Mausritter-sisältöäsi, kunhan noudatat tällä kyseisellä sivulla esitettyjä ehtoja.
 
 Jos teet niin, voit käyttää "Compatible with Mausritter" -logoa työsi yhteydessä (mutta sinun ei tarvitse tehdä niin).
 
