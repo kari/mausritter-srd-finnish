@@ -930,102 +930,6 @@ Kun olento listaa kriittisen vahingon kykylohkossaan, tämä tapahtuu tavallisen
 
 > Esimerkki: Hämähäkki hyökkää Takiainen-hiiren kimppuun ja tekee 4 vahinkoa. Takiaisella on 2 HP:ta, joten 2 vahingosta menee hänen DEX-arvoonsa. Takiaisen on tehtävä DEX-pelastusheitto mutta epäonnistuu siinä, joten hämähäkki kietoo hänet nopeasti verkkoonsa ja lähtee pakenemaan. Toivottavasti Takiaisen kaverit ovat nopeita takaa-ajossa!
 
-### Kissa
-
-:::statblock
-**Sotajoukkojen kokoinen**\
-15hp, STR 15, DEX 15, WIL 10, Panssari 1\
-Hyökkäykset: d6 raapaisu, d8 puraisu
-:::
-
-**Haluaa** tulla palvelluksi. Jos hiiret vannovat uskollisuutta ja antavat lahjuksia, niiden voidaan sallia elää
-
-#### Kissaruhtinaat
-
-1. **Balthasar** - Rakastaa syödä hienoimpia herkkuja
-2. **Melchior** - Rakastaa kultaa, jalokiviä ja rikkauksia
-3. **Salomo** - Pelaa julmia leikkejä vankien kanssa
-4. **Hammurabi** - Hallitsee ankaralla, taipumattomalla logiikalla
-5. **Nefertiti** - Rakastaa taidetta, runoutta ja kauniita asioita
-6. **Zenobia** - Muodostaa valloitusarmeijaa, haluaa hallita
-
-### Tuhatjalkainen
-
-:::statblock
-8hp, STR 10, DEX 12, WIL 8, Panssari 1\
-Hyökkäykset: d6 myrkkypuraisu (vahingoittaa DEX-arvoa STR:n sijaan)\
-Kriittinen vahinko: Myrkky alkaa vaikuttaa, d12 vahinkoa STR:ään.
-:::
-
-**Haluaa** vaellella ja ahmia
-
-#### Kauhistuttavat tuhatjalkaiset
-
-1. **Jätti** — Suuri kuin käärme. 12hp, STR 15, Panssari 2
-2. **Uimari** — Vetää saaliinsa veden alle
-3. **Tiikeri** - Keltaiset ja mustat raidat, d8 vahinkoa puraisulla
-4. **Ahmatti** - Aina nälkäinen, ei koskaan lakkaa kasvamasta
-5. **Kilpuri** - Herkkua, jos sen saa kiinni saaliiksi
-6. **Sulka** - Voi liitää lyhyitä matkoja
-
-### Varis
-
-:::statblock
-12hp, STR 12, DEX 15, WIL 15, Panssari 1\
-Hyökkäykset: d8 nokkaisu\
-Lentää 3x normaalia nopeammin, osaa kaksi laulua
-:::
-
-**Haluaa** suojella salaisia pyhiä paikkoja niiltä, jotka haluaisivat vahingoittaa niitä
-
-#### Variksen laulut
-
-1. Aamunsarastus - Luo häikäisevän kirkkaan valon
-2. Suru - Kaikki, jotka kuulevat: Tee WIL-pelastusheitto tai ota Pelästynyt
-3. Näky - Ennakoi tulevaa tapahtumaa hämärästi
-4. Tuuli - Voimakas puuska. Tee STR-pelastusheitto tai tule tyrmätyksi maahan.
-5. Mennyt - Näkee menneen tapahtuman, joka koskee läsnäolijoita
-6. Totuus - Kaikki, jotka kuulevat: Eivät voi valehdella niin kauan kuin laulu kestää
-
-### Keijukainen
-
-:::statblock
-6hp, STR 10, DEX 15, WIL 15\
-Hyökkäykset: d8 hopeinen säilä\
-Osaa yhden loitsun
-:::
-
-**Haluaa** edistää Keijukaiskuningattaren outoa suunnitelmaa
-
-#### Keijujen suunnitelmat
-
-1. Sieppaavat hiirenpoikasia kasvattaakseen ne ominaan
-2. Väkivaltaista mustasukkaisuutta aiheuttavien lahjojen jakaminen
-3. Soittavat musiikkia, joka lumoaa hiiret palvelukseensa
-4. Käyttävät lumovoimaansa esiintyäkseen hiirenä hädässä
-5. Pilaavat talvivarastojen ruoat
-6. Huijaavat asutukselta sen laillisen aseman
-
-### Sammakko
-
-:::statblock
-6hp, STR 12, DEX 15, WIL 8, Panssari 1\
-Hyökkäykset: d10 keihäs tai d6 kieli\
-Kriittinen vahinko: Hyppää ulottumattomiin
-Menee aina ensimmäisenä, ellei yllätetä; hyppelehtii 2x normaalia nopeammin
-:::
-
-**Haluaa** suorittaa urhoollisesti tehtävänsä loppuun
-
-#### Vaeltavat sammakkoritarit
-
-1. Gwal - Vahva, kiltti sydämeltään ja yksinkertainen mieleltään
-2. Phillip - Kirottu ihminen, joka etsii tapaa purkaa kirous
-3. Lurf - Vääristynyt kunniantunto, äkkipikainen ja kiivas
-4. Slup - Päättänyt tappaa suuren pedon, hinnalla millä hyvänsä
-5. Uuu - Haluavaa epätoivoisesti osoittaa voimansa peitsiottelussa
-6. Puc - Legendaarista Totuuden Mukia etsimässä
-
 ### Aave
 
 :::statblock
@@ -1064,6 +968,82 @@ Hyökkäykset: d6 miekka tai d6 jousi
 5. Kehäkukka - Rakastaa tulta. Pelkää kun sitä ei ole läsnä
 6. Leif - Kaukaisesta maasta karkotettu jättikokoinen hiiri
 
+### Hämähäkki
+
+:::statblock
+6hp, STR 8, DEX 15, WIL 10, Panssari 1\
+Hyökkäykset: d6 myrkkypuraisu (vahingoittaa DEX-arvoa STR:n sijaan)\
+Kriittinen vahinko: Kantaa pois verkossa
+:::
+
+**Haluaa** ruokkia poikasiaan
+
+#### Hämähäkkilajit
+
+1. Mustaleski - Kirkkaanpunaiset merkit, d10-vahingon puraisu
+2. Susi - Karvainen, metsästää d6 hämähäkin laumoissa
+3. Lukki - Enimmäkseen rauhallinen, osaa kävellä veden pinnalla
+4. Arkkitehti - Kutoo hämmentäviä verkkotunneleita
+5. Välke - Toimintana voi teleportata d6 x 25cm
+6. Aave - Voidaan vahingoittaa vain hopea- tai taika-aseilla
+
+### Keijukainen
+
+:::statblock
+6hp, STR 10, DEX 15, WIL 15\
+Hyökkäykset: d8 hopeinen säilä\
+Osaa yhden loitsun
+:::
+
+**Haluaa** edistää Keijukaiskuningattaren outoa suunnitelmaa
+
+#### Keijujen suunnitelmat
+
+1. Sieppaavat hiirenpoikasia kasvattaakseen ne ominaan
+2. Väkivaltaista mustasukkaisuutta aiheuttavien lahjojen jakaminen
+3. Soittavat musiikkia, joka lumoaa hiiret palvelukseensa
+4. Käyttävät lumovoimaansa esiintyäkseen hiirenä hädässä
+5. Pilaavat talvivarastojen ruoat
+6. Huijaavat asutukselta sen laillisen aseman
+
+### Kissa
+
+:::statblock
+**Sotajoukkojen kokoinen**\
+15hp, STR 15, DEX 15, WIL 10, Panssari 1\
+Hyökkäykset: d6 raapaisu, d8 puraisu
+:::
+
+**Haluaa** tulla palvelluksi. Jos hiiret vannovat uskollisuutta ja antavat lahjuksia, niiden voidaan sallia elää
+
+#### Kissaruhtinaat
+
+1. **Balthasar** - Rakastaa syödä hienoimpia herkkuja
+2. **Melchior** - Rakastaa kultaa, jalokiviä ja rikkauksia
+3. **Salomo** - Pelaa julmia leikkejä vankien kanssa
+4. **Hammurabi** - Hallitsee ankaralla, taipumattomalla logiikalla
+5. **Nefertiti** - Rakastaa taidetta, runoutta ja kauniita asioita
+6. **Zenobia** - Muodostaa valloitusarmeijaa, haluaa hallita
+
+### Käärme
+
+:::statblock
+12hp, STR 12, DEX 10, WIL 10, Panssari 2\
+Hyökkäykset: d8 puraisu\
+Kriittinen vahinko: Nielaisee kokonaan, d4 STR-vahinkoa Kierroksittain, kunnes pelastut tai pakenet
+:::
+
+**Haluaa** nukkua ilman häirintää
+
+#### Kummalliset käärmeet
+
+1. Puu - Puusta veistetty tikku, joka on lumottu eloon
+2. Varjo - Hiipii aina juuri pois näkyvistä
+3. Luu - Käärmeen luuranko, herätetty kuolleista
+4. Ankerias - Elää veden alla. Hoitaa varastamiaan käärmeen munia
+5. Käärö - Syntynyt loitsu suomuihinsa kaiverrettuna
+6. Lievo - Siivekäs, sylkee pieniä purskeita tulta
+
 ### Pöllö
 
 :::statblock
@@ -1101,43 +1081,63 @@ Hyökkäykset: d6 lihakirves
 5. Herrasrotat - silinterihattuja ja rähjäisiä pukuja
 6. Kunkut - Hännät yhdessä kiinni Gordionin solmussa
 
-### Käärme
+### Sammakko
 
 :::statblock
-12hp, STR 12, DEX 10, WIL 10, Panssari 2\
-Hyökkäykset: d8 puraisu\
-Kriittinen vahinko: Nielaisee kokonaan, d4 STR-vahinkoa Kierroksittain, kunnes pelastut tai pakenet
+6hp, STR 12, DEX 15, WIL 8, Panssari 1\
+Hyökkäykset: d10 keihäs tai d6 kieli\
+Kriittinen vahinko: Hyppää ulottumattomiin\
+Menee aina ensimmäisenä, ellei yllätetä; hyppelehtii 2x normaalia nopeammin
 :::
 
-**Haluaa** nukkua ilman häirintää
+**Haluaa** suorittaa urhoollisesti tehtävänsä loppuun
 
-#### Kummalliset käärmeet
+#### Vaeltavat sammakkoritarit
 
-1. Puu - Puusta veistetty tikku, joka on lumottu eloon
-2. Varjo - Hiipii aina juuri pois näkyvistä
-3. Luu - Käärmeen luuranko, herätetty kuolleista
-4. Ankerias - Elää veden alla. Hoitaa varastamiaan käärmeen munia
-5. Käärö - Syntynyt loitsu suomuihinsa kaiverrettuna
-6. Lievo - Siivekäs, sylkee pieniä purskeita tulta
+1. Gwal - Vahva, kiltti sydämeltään ja yksinkertainen mieleltään
+2. Phillip - Kirottu ihminen, joka etsii tapaa purkaa kirous
+3. Lurf - Vääristynyt kunniantunto, äkkipikainen ja kiivas
+4. Slup - Päättänyt tappaa suuren pedon, hinnalla millä hyvänsä
+5. Uuu - Haluavaa epätoivoisesti osoittaa voimansa peitsiottelussa
+6. Puc - Legendaarista Totuuden Mukia etsimässä
 
-### Hämähäkki
+### Tuhatjalkainen
 
 :::statblock
-6hp, STR 8, DEX 15, WIL 10, Panssari 1\
+8hp, STR 10, DEX 12, WIL 8, Panssari 1\
 Hyökkäykset: d6 myrkkypuraisu (vahingoittaa DEX-arvoa STR:n sijaan)\
-Kriittinen vahinko: Kantaa pois verkossa
+Kriittinen vahinko: Myrkky alkaa vaikuttaa, d12 vahinkoa STR:ään.
 :::
 
-**Haluaa** ruokkia poikasiaan
+**Haluaa** vaellella ja ahmia
 
-#### Hämähäkkilajit
+#### Kauhistuttavat tuhatjalkaiset
 
-1. Mustaleski - Kirkkaanpunaiset merkit, d10-vahingon puraisu
-2. Susi - Karvainen, metsästää d6 hämähäkin laumoissa
-3. Lukki - Enimmäkseen rauhallinen, osaa kävellä veden pinnalla
-4. Arkkitehti - Kutoo hämmentäviä verkkotunneleita
-5. Välke - Toimintana voi teleportata d6 x 25cm
-6. Aave - Voidaan vahingoittaa vain hopea- tai taika-aseilla
+1. **Jätti** — Suuri kuin käärme. 12hp, STR 15, Panssari 2
+2. **Uimari** — Vetää saaliinsa veden alle
+3. **Tiikeri** - Keltaiset ja mustat raidat, d8 vahinkoa puraisulla
+4. **Ahmatti** - Aina nälkäinen, ei koskaan lakkaa kasvamasta
+5. **Kilpuri** - Herkkua, jos sen saa kiinni saaliiksi
+6. **Sulka** - Voi liitää lyhyitä matkoja
+
+### Varis
+
+:::statblock
+12hp, STR 12, DEX 15, WIL 15, Panssari 1\
+Hyökkäykset: d8 nokkaisu\
+Lentää 3x normaalia nopeammin, osaa kaksi laulua
+:::
+
+**Haluaa** suojella salaisia pyhiä paikkoja niiltä, jotka haluaisivat vahingoittaa niitä
+
+#### Variksen laulut
+
+1. Aamunsarastus - Luo häikäisevän kirkkaan valon
+2. Suru - Kaikki, jotka kuulevat: Tee WIL-pelastusheitto tai ota Pelästynyt
+3. Näky - Ennakoi tulevaa tapahtumaa hämärästi
+4. Tuuli - Voimakas puuska. Tee STR-pelastusheitto tai tule tyrmätyksi maahan.
+5. Mennyt - Näkee menneen tapahtuman, joka koskee läsnäolijoita
+6. Totuus - Kaikki, jotka kuulevat: Eivät voi valehdella niin kauan kuin laulu kestää
 
 # Työkalupakki ruudukkoseikkailuille
 
