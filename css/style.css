@@ -1,0 +1,146 @@
+
+/* Defaults */
+:root {
+	--font-family: "Barlow Condensed", -apple-system, system-ui, sans-serif;
+	--font-family-headings: "Texturina", serif;
+}
+
+/* Theme colors */
+:root {
+	--color-gray-20: #e0e0e0;
+	--color-gray-50: #C0C0C0;
+	--color-gray-90: #333;
+	--color-gray-mr: #eee;
+
+	--background-color: #fff;
+
+	--text-color: var(--color-gray-90);
+	--text-color-link: #082840;
+	--text-color-link-active: #5f2b48;
+	--text-color-link-visited: #17050F;
+
+	--syntax-tab-size: 2;
+}
+
+@media (prefers-color-scheme: dark) {
+	:root {
+		--color-gray-20: #e0e0e0;
+		--color-gray-50: #C0C0C0;
+		--color-gray-90: #dad8d8;
+
+		/* --text-color is assigned to --color-gray-_ above */
+		--text-color-link: #1493fb;
+		--text-color-link-active: #6969f7;
+		--text-color-link-visited: #a6a6f8;
+
+		--background-color: #15202b;
+	}
+}
+
+/* Global stylesheet */
+* {
+	box-sizing: border-box;
+}
+
+html,
+body {
+	padding: 0;
+	margin: 0 auto;
+	font-family: var(--font-family);
+	font-size: 1.1rem;
+	color: var(--text-color);
+	background-color: var(--background-color);
+}
+html {
+	overflow-y: scroll;
+}
+body {
+	max-width: 40em;
+	margin-bottom: 3rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: var(--font-family-headings);
+	font-weight: 900;
+	font-optical-sizing: auto;
+	font-style: normal;
+}
+
+strong {
+	font-weight: 600;
+}
+
+/* Fluid images via https://www.zachleat.com/web/fluid-images/ */
+img{
+  max-width: 100%;
+}
+img[width][height] {
+  height: auto;
+}
+img[src$=".svg"] {
+  width: 100%;
+  height: auto;
+  max-width: none;
+}
+video,
+iframe {
+	width: 100%;
+	height: auto;
+}
+iframe {
+	aspect-ratio: 16/9;
+}
+
+p:last-child {
+	margin-bottom: 0;
+}
+p {
+	line-height: 1.5;
+}
+
+li {
+	line-height: 1.5;
+}
+
+a[href] {
+	color: var(--text-color-link);
+}
+a[href]:visited {
+	color: var(--text-color-link-visited);
+}
+a[href]:hover,
+a[href]:active {
+	color: var(--text-color-link-active);
+}
+
+table {
+	margin: 1em 0;
+	width: 100%;
+	border-collapse: collapse;
+	font-size: 0.9em;
+}
+table td,
+table th {
+	text-align: left;
+	padding: 0.25em 0.5em;
+
+}
+table th {
+	font-weight: 600;
+}
+thead tr {
+	background-color: var(--color-gray-mr);
+}
+tbody tr:nth-child(even) {
+  background-color: var(--color-gray-mr);
+}
+
+.statblock {
+	padding: 0.25rem 1rem;
+	background-color: var(--color-gray-mr);
+	clip-path: polygon(8px 0%, calc(100% - 8px) 0%, 100% 8px, 100% calc(100% - 8px), calc(100% - 8px) 100%, 8px 100%, 0% calc(100% - 8px), 0% 8px);
+}
+
+.statblock p {
+	margin-top: 0;
+}

@@ -1,0 +1,20 @@
+{
+  "name": "mausritter-srd-finnish",
+  "version": "2.3",
+  "description": "Mausritter SRD in Finnish",
+  "main": "README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npx @11ty/eleventy"
+  },
+  "author": "Kari Silvennoinen <kari@kalifi.org> (https://kalifi.org)",
+  "license": "CC-BY-4.0",
+  "type": "module",
+  "dependencies": {
+    "@11ty/eleventy": "^3.1.2",
+    "markdown-it-div": "^1.1.0"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "2.1.2"
+  }
+}
