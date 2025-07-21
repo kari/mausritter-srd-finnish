@@ -447,7 +447,7 @@ Kun hiiresi **kuolee**, luo uusi hiiri. Pelinjohtajan tulisi ottaa hänet peliin
 Hiiresi voi levätä ja palautua kolmella tavalla.
 
 - **Lyhyt lepo:** kestää 1 Vuoron. Huikka vettä ja muutama minuutti lepoa palauttaa **d6+1 HP:tä**.
-- **Pitkä lepo:** kestää 1 Vahtivuoron. Ateria ja vähän unta palauttaa **kaiken HP:n**. Jos Osumasuojasi oli jo täynnä, palauta **d6** **kykyarvoon**.
+- **Pitkä lepo:** kestää 1 Vahtivuoron. Ateria ja vähän unta palauttaa **kaiken HP:n**. Jos Osumasuojasi oli jo täynnä, palauta **d6** yhteen **kykyarvoon**.
 - **Täysi lepo:** kestää viikon takaisin turvassa. Tämä **palauttaa täysin** hiiresi kykyarvot ja poistaa useimmat pitkäkestoiset Olotilat. Viikon ruoat ja majoitus asutuksessa maksaa yleensä 20p.
 
 ## Aika
@@ -456,7 +456,7 @@ Yksinkertaisuuden ja kirjanpidon helpottamiseksi, peliaika on jaettu kolmeen kes
 
 - **Kierros:** aika-asteikko, jota käytetään **taistelun** aikana. Jokainen Kierros kestää alle minuutin.
 - **Vuoro:** aika-asteikko, jota käytetään **seikkailun tapahtumapaikan tutkimisen** aikana. Kukin Vuoro on noin 10 minuuttia, ja se riittää yhden huoneen tutkimiseen tai parin toiminnon suorittamiseen. Taistelu kestää lähes aina yhden Vuoron.
-- **Vahtivuoro:** aika-asteikko, jota käytetään **erämatkan** aikana. Jokainen Vahtivuoro on 36 Vuoroa, eli noin 6 tuntia. Vuorokaudessa on 4 vahtivuoroa. Vahtivuoron aikana voi yleensä kulkea 1 karttaruudun tai parin kilometrin verran.
+- **Vahtivuoro:** aika-asteikko, jota käytetään **erämaassa matkaamisen** aikana. Jokainen Vahtivuoro on 36 Vuoroa, eli noin 6 tuntia. Vuorokaudessa on 4 vahtivuoroa. Vahtivuoron aikana voi yleensä kulkea 1 karttaruudun tai parin kilometrin verran.
 
 ## Vaeltaminen
 
@@ -517,7 +517,7 @@ Loihtiakseen hiiren on pidettävä taulua käpälässään ja luettava loitsu ä
 
 Kun hiiresi langettaa loitsun, päätä loitsussa jäljellä olevien käyttöpisteiden määrään asti se **voima**, jolla langetat sen.
 
-Heitä loitsimis**voimaa** vastaava määrä **d6**-noppia. Merkitse loitsulle käyttö jokaista noppaa, joka näyttää **arvon 4, 5, tai 6** kohti.
+Heitä loitsimis**voimaa** vastaava määrä **d6**-noppia. Merkitse loitsulle käyttö jokaista noppaa, joka näyttää **arvon 4, 5, tai 6**, kohti.
 
 Loitsulla on **vaikutus**, joka vaihtelee riippuen, kuinka monet **[NOPAT]** siihen käytettiin ja heitettyjen noppien **[SUMMA]**:sta.
 
@@ -851,7 +851,7 @@ Kun näin käy, **mukauta** jokin olemassa olevista työkaluistasi tähän tarko
 
 Kun **tutkitaan** luolastossa tai **seikkailun tapahtumapaikassa**, hiiriseurue voi tehdä **yhden suuremman toiminnon Vuoron aikana**. Suuria toimia ovat esimerkiksi siirtyminen uuteen huoneeseen, ansan tutkiminen tai taistelun aloittaminen.
 
-Voit helposti pitää kirjaa Vuoroista käyttämällä Pelinjohtajan pelikerran seurantakaavakkeen **Vuoron seuranta** -kenttää. Merkitse seuraava tyhjä ruutu aina kun seurue suorittaa suuremman toiminnon. Kun tuplakehystetty ruutu on merkitty, heitä kohtaamista varten.
+Voit helposti pitää kirjaa Vuoroista käyttämällä Pelinjohtajan pelikerran seurantakaavakkeen **Vuoroseuranta** -kenttää. Merkitse seuraava tyhjä ruutu aina kun seurue suorittaa suuremman toiminnon. Kun tuplakehystetty ruutu on merkitty, heitä kohtaamista varten.
 
 ## Vaeltaminen
 
