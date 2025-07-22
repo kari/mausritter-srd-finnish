@@ -7,7 +7,7 @@ Tämä teos sisältää kaiken tarvittavan Mausritterin pelaamsen aloittamiseksi
 - [Hahmo- ja palkkalaislomake](pdf/mausritter-character-sheets-fi.pdf)
 - [Varuste- ja olotilakortit](pdf/mausritter-item-condition-sheets-fi.pdf)
 - [Pelinjohtajan pelikerran seurantalomake](pdf/mausritter-gm-session-sheet-fi.pdf)
-- [Ruutuseikkailun pohja](pdf/mausritter-hexcrawl-template-fi.pdf)
+- [Ruudukkoseikkailun pohja](pdf/mausritter-hexcrawl-template-fi.pdf)
 - [Sääntöjen yhteenveto](pdf/mausritter-rules-reference-fi.pdf)
 
 Kaikki palaute [käännöksestä](https://github.com/kari/mausritter-srd-finnish/discussions) ja [parannusehdotukset](https://github.com/kari/mausritter-srd-finnish/issues) ovat tervetulleita!
