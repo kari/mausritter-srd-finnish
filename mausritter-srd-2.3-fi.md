@@ -82,7 +82,7 @@ Hiirelläsi on alussa:
 - **Soihtuja**
 - **Muona-annoksia**
 - Kaksi esinettä sen **taustasta**
-- Valitsemasi **ase** (ks. s. 9)
+- Valitsemasi **ase** (ks. **Aseet**)
 
 Jos hiiresi korkein kyky on 9 tai vähemmän, heittä noppia Taustataulukkoa varten uudelleen ja ota joko esine A tai B. Jos korkein ominaisuutesi on 7 tai vähemmän, ota molemmat.
 
