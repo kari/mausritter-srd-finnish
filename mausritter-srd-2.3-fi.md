@@ -652,7 +652,7 @@ Kaikki hinnat ovat siemenissä, hiirten valtakuntien yleisvaluutassa.
 
 ## Työkalut, hiirtentekemät
 
-Käytettävissä useimmissa hiiriasutuksissa. Nämä esineet ovat hiirille sopivan kokoisia.
+Saatavilla useimmissa hiiriasutuksissa. Nämä esineet ovat hiirille sopivan kokoisia.
 
 | Esine                           | Hinta |
 | ------------------------------- | ----- |
