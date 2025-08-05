@@ -10,6 +10,8 @@ Tämä teos sisältää kaiken tarvittavan Mausritterin pelaamsen aloittamiseksi
 - [Ruudukkoseikkailun pohja](pdf/mausritter-hexcrawl-template-fi.pdf)
 - [Sääntöjen yhteenveto](pdf/mausritter-rules-reference-fi.pdf)
 
+Sääntökokoelma ja sen lisämateriaali on myös saatavilla ilmaiseksi PDF-muodossa [itch.io](https://kartza.itch.io/mausritter-srd-fi):sta.
+
 Kaikki palaute [käännöksestä](https://github.com/kari/mausritter-srd-finnish/discussions) ja [parannusehdotukset](https://github.com/kari/mausritter-srd-finnish/issues) ovat tervetulleita!
 
 > This work is based on [Mausritter](https://mausritter.com/), a product of Losing Games and Isaac Williams, and is licensed for use under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) licence.
