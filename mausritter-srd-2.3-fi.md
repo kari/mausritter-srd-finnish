@@ -460,11 +460,11 @@ Yksinkertaisuuden ja kirjanpidon helpottamiseksi, peliaika on jaettu kolmeen kes
 
 ## Vaeltaminen
 
-Hiirijoukkosi voi kulkea **yhden ruudun** tai pari kilometriä yhdessä **Vartiovuorossa**. **Vaikea maasto** (purot, ihmisten tiet, suuret kalliot, kukkulat jne.) vie **kaksi Vartiovuoroa** samaan matkaan.
+Hiirijoukkosi voi kulkea **yhden ruudun** tai pari kilometriä yhdessä **Vahtivuorossa**. **Vaikea maasto** (purot, ihmisten tiet, suuret kalliot, kukkulat jne.) vie **kaksi Vahtiovuoroa** samaan matkaan.
 
 ### Keräily
 
-Luonnossa hiiresi voi viettää Vartiovuoron **keräillen ravintoa**.
+Luonnossa hiiresi voi viettää Vahtivuoron **keräillen ravintoa**.
 
 Jos hän tekee niin, hän löytää **d3 käytön** edestä **muona-annoksia**.
 
@@ -855,7 +855,7 @@ Voit helposti pitää kirjaa Vuoroista käyttämällä Pelinjohtajan pelikerran 
 
 ## Vaeltaminen
 
-Matkustaessaan erämaassa hiiret voivat kulkea yhden karttaruudun verran (~1,5km) Vartiovuorossa. Vaikeaa maastoa sisältävät karttaruudut (purot, ihmisten tiet, suuret kalliot, kukkulat jne.) vaativat kaksi Vartiovuoroa ylittää.
+Matkustaessaan erämaassa hiiret voivat kulkea yhden karttaruudun verran (~1,5km) Vahtivuorossa. Vaikeaa maastoa sisältävät karttaruudut (purot, ihmisten tiet, suuret kalliot, kukkulat jne.) vaativat kaksi Vahtivuoroa ylittää.
 
 ### Lepo
 
@@ -879,7 +879,7 @@ Korostetut säät ovat huonot matkantekoon. Jokaista näissä olosuhteissa matku
 
 Kun hiiret tutkivat luolastoa tai **seikkailupaikkaa**, tee kohtaamisia varten heitto **kolmen Vuoron välein** tai aina kun hiiret aiheuttavat meteliä tai sekasortoa, joka voi herättää huomiota.
 
-Kun he ovat tutkimassa **erämaata**, heitä kohtaamiset **aamu-** ja **ilta**vartiovuoron alkaessa. Jos kohtaaminen tapahtuu, heitä d12 selvittääksesi minkä tunnin aikana se tapahtuu.
+Kun he ovat tutkimassa **erämaata**, heitä kohtaamiset **aamu-** ja **ilta**vahtivuoron alkaessa. Jos kohtaaminen tapahtuu, heitä d12 selvittääksesi minkä tunnin aikana se tapahtuu.
 
 Heitä **d6** tehdäksesi sattumakohtaamisheitto. Jos tulos on 1, **kohtaaminen** tapahtuu. Tuloksella 2, tapahtuu **enne** (merkkejä tai vihjeitä kohtaamisesta).
 
